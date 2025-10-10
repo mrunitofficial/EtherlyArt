@@ -568,6 +568,14 @@
     "Category": "Sunlite"
   },
   {
+    "ID": "QDanceRadio",
+    "Name": "Q Dance",
+    "Album": "Home of the harder styles",
+    "StreamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3",
+    "ArtURL": "",
+    "Category": "QDance"
+  },
+  {
     "ID": "VeronicaRadio",
     "Name": "Veronica Radio",
     "Album": "Join the Club",
@@ -607,4 +615,5 @@
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
     "Category": "Veronica"
   }
+
 ]
