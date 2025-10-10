@@ -1,0 +1,610 @@
+[
+  {
+    "ID": "100pRadio",
+    "Name": "100% NL Radio",
+    "Album": "Maakt je dag",
+    "StreamURL": "https://stream.100p.nl/100pctnl.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pRadio.png",
+    "Category": "100% NL"
+  },
+  {
+    "ID": "100pFeest",
+    "Name": "100% NL Feest",
+    "Album": "Maakt je dag",
+    "StreamURL": "https://stream.100p.nl/web01_mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pFeest.png",
+    "Category": "100% NL"
+  },
+  {
+    "ID": "100pNonStop",
+    "Name": "100% NL Non-Stop",
+    "Album": "Maakt je dag",
+    "StreamURL": "https://stream.100p.nl/web02_mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pNonStop.png",
+    "Category": "100% NL"
+  },
+  {
+    "ID": "100p70s&80s",
+    "Name": "100% NL 70's & 80's",
+    "Album": "Maakt je dag",
+    "StreamURL": "https://stream.100p.nl/web03_mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100p70s%2680s.png",
+    "Category": "100% NL"
+  },
+  {
+    "ID": "100p90s&00s",
+    "Name": "100% NL 90's & 00's",
+    "Album": "Maakt je dag",
+    "StreamURL": "https://stream.100p.nl/web04_mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/refs/heads/main/100P90s%2600s.png",
+    "Category": "100% NL"
+  },
+  {
+    "ID": "538Radio",
+    "Name": "Radio 538",
+    "Album": "Jouw hits, jouw 538!",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "Category": "538"
+  },
+  {
+    "ID": "538_90sHits",
+    "Name": "538 90's Hits",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "538Classics",
+    "Name": "538 Classics",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "538DanceDept",
+    "Name": "538 Dance Department",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "538GuiltyPleasures",
+    "Name": "538 Guilty Pleasures",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "538Hitzone",
+    "Name": "538 Hitzone",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR12.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "538Ibiza",
+    "Name": "538 Ibiza",
+    "Album": "Jouw hits, jouw 538!",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "Category": "538"
+  },
+  {
+    "ID": "538NonStop",
+    "Name": "538 Non-Stop",
+    "Album": "Jouw hits, jouw 538!",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "Category": "538"
+  },
+  {
+    "ID": "538Party",
+    "Name": "538 Party",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "538Top1000",
+    "Name": "538 Top 1000",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "538Top50",
+    "Name": "538 Top 50",
+    "Album": "Jouw hits, jouw 538!",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "Category": "538"
+  },
+  {
+    "ID": "538Zomer",
+    "Name": "538 Zomer",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3",
+    "ArtURL": "",
+    "Category": "538"
+  },
+  {
+    "ID": "ArrowClassicRock",
+    "Name": "Arrow Classic Rock",
+    "Album": "",
+    "StreamURL": "https://stream.arrow.nl/arrow",
+    "ArtURL": "",
+    "Category": "Arrow"
+  },
+  {
+    "ID": "BNR",
+    "Name": "BNR Nieuwsradio",
+    "Album": "",
+    "StreamURL": "https://stream.bnr.nl/bnr_mp3_128_02",
+    "ArtURL": "",
+    "Category": "BNR"
+  },
+  {
+    "ID": "classicnl",
+    "Name": "classicnl",
+    "Album": "",
+    "StreamURL": "https://stream.classicnl.nl/classicnl_mp3_128_05",
+    "ArtURL": "",
+    "Category": "classicnl"
+  },
+  {
+    "ID": "FunXRadio",
+    "Name": "FunX Radio",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/funx-bb-mp3",
+    "ArtURL": "",
+    "Category": "FunX"
+  },
+  {
+    "ID": "FunXArab",
+    "Name": "FunX Arab",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/funx-arab-bb-mp3",
+    "ArtURL": "",
+    "Category": "FunX"
+  },
+  {
+    "ID": "FunXFissa",
+    "Name": "FunX Fissa",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/funx-dance-bb-mp3",
+    "ArtURL": "",
+    "Category": "FunX"
+  },
+  {
+    "ID": "FunXHipHop",
+    "Name": "FunX Hip Hop",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/funx-hiphop-bb-mp3",
+    "ArtURL": "",
+    "Category": "FunX"
+  },
+  {
+    "ID": "FunXLatin",
+    "Name": "FunX Latin",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/funx-latin-bb-mp3",
+    "ArtURL": "",
+    "Category": "FunX"
+  },
+  {
+    "ID": "FunXReggae",
+    "Name": "FunX Reggae",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/funx-reggae-bb-mp3",
+    "ArtURL": "",
+    "Category": "FunX"
+  },
+  {
+    "ID": "FunXSlowJamz",
+    "Name": "FunX Slow Jamz",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/funx-slowjamz-bb-mp3",
+    "ArtURL": "",
+    "Category": "FunX"
+  },
+  {
+    "ID": "Joe",
+    "Name": "Joe",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+    "ArtURL": "",
+    "Category": "Joe"
+  },
+  {
+    "ID": "Joe70s80s",
+    "Name": "Joe 70s & 80s",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_7080.mp3",
+    "ArtURL": "",
+    "Category": "Joe"
+  },
+  {
+    "ID": "JoeEasy",
+    "Name": "Joe Easy",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_EASY.mp3",
+    "ArtURL": "",
+    "Category": "Joe"
+  },
+  {
+    "ID": "JumboRadio",
+    "Name": "Jumbo Radio",
+    "Album": "",
+    "StreamURL": "https://stream.jumboradio.nl/jumboradio-mp3",
+    "ArtURL": "",
+    "Category": "Jumbo Radio"
+  },
+  {
+    "ID": "KINK",
+    "Name": "KINK",
+    "Album": "",
+    "StreamURL": "https://stream.kink.nl/kink",
+    "ArtURL": "",
+    "Category": "KINK"
+  },
+  {
+    "ID": "KINK80s",
+    "Name": "KINK 80's",
+    "Album": "",
+    "StreamURL": "https://stream.kink.nl/kink80s",
+    "ArtURL": "",
+    "Category": "KINK"
+  },
+  {
+    "ID": "KINK90s",
+    "Name": "KINK 90's",
+    "Album": "",
+    "StreamURL": "https://stream.kink.nl/kink90s",
+    "ArtURL": "",
+    "Category": "KINK"
+  },
+  {
+    "ID": "KINKDistortion",
+    "Name": "KINK Distortion",
+    "Album": "",
+    "StreamURL": "https://stream.kink.nl/kinkdistortion",
+    "ArtURL": "",
+    "Category": "KINK"
+  },
+  {
+    "ID": "NPORadio1",
+    "Name": "NPO Radio 1",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/radio1-bb-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPORadio2",
+    "Name": "NPO Radio 2",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/radio2-bb-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPORadio2Top2000",
+    "Name": "NPO Radio 2 Top 2000",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/radio2-top2000-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPO3FM",
+    "Name": "NPO 3FM",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/3fm-bb-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPO3FMAlternative",
+    "Name": "NPO 3FM Alternative",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/3fm-alternative-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPORadio4",
+    "Name": "NPO Radio 4",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/radio4-bb-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPORadio5",
+    "Name": "NPO Radio 5",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/radio5-bb-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPOSoulAndJazz",
+    "Name": "NPO Soul & Jazz",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/radio6-bb-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "NPOSterrenNL",
+    "Name": "NPO Sterren NL",
+    "Album": "",
+    "StreamURL": "https://icecast.omroep.nl/npo-sterrennl-mp3",
+    "ArtURL": "",
+    "Category": "NPO"
+  },
+  {
+    "ID": "Nostalgie",
+    "Name": "Nostalgie",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIE.mp3",
+    "ArtURL": "",
+    "Category": "Nostalgie"
+  },
+  {
+    "ID": "OneWorldRadio",
+    "Name": "One World Radio",
+    "Album": "The sound of Tomorrowland",
+    "StreamURL": "https://stream.bigfm.de/oneworldradio/mp3-128/tml",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/OneWorldRadio.png",
+    "Category": "One World Radio"
+  },
+  {
+    "ID": "Qmusic",
+    "Name": "Qmusic",
+    "Album": "",
+    "StreamURL": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "ArtURL": "",
+    "Category": "Qmusic"
+  },
+  {
+    "ID": "QmusicChristmas",
+    "Name": "Qmusic Christmas",
+    "Album": "",
+    "StreamURL": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_xmas_96.mp3",
+    "ArtURL": "",
+    "Category": "Qmusic"
+  },
+  {
+    "ID": "QmusicFouteUur",
+    "Name": "Qmusic Foute Uur",
+    "Album": "",
+    "StreamURL": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3",
+    "ArtURL": "",
+    "Category": "Qmusic"
+  },
+  {
+    "ID": "QmusicNonstop",
+    "Name": "Qmusic Non-stop",
+    "Album": "",
+    "StreamURL": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3",
+    "ArtURL": "",
+    "Category": "Qmusic"
+  },
+  {
+    "ID": "QmusicTop40",
+    "Name": "Qmusic Top 40",
+    "Album": "",
+    "StreamURL": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_96.mp3",
+    "ArtURL": "",
+    "Category": "Qmusic"
+  },
+  {
+    "ID": "Radio10",
+    "Name": "Radio 10",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+    "ArtURL": "",
+    "Category": "Radio 10"
+  },
+  {
+    "ID": "Radio10_60s70s",
+    "Name": "Radio 10 60s & 70s Hits",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/R10_6070.mp3",
+    "ArtURL": "",
+    "Category": "Radio 10"
+  },
+  {
+    "ID": "Radio10_80s",
+    "Name": "Radio 10 80s Hits",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/R10_80.mp3",
+    "ArtURL": "",
+    "Category": "Radio 10"
+  },
+  {
+    "ID": "Radio10_90sHits",
+    "Name": "Radio 10 90s Hits",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/R10_90.mp3",
+    "ArtURL": "",
+    "Category": "Radio 10"
+  },
+  {
+    "ID": "Radio10DiscoClassics",
+    "Name": "Radio 10 Disco Classics",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/R10_DC.mp3",
+    "ArtURL": "",
+    "Category": "Radio 10"
+  },
+  {
+    "ID": "Radio10Top4000",
+    "Name": "Radio 10 Top 4000",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/R10_T4000.mp3",
+    "ArtURL": "",
+    "Category": "Radio 10"
+  },
+  {
+    "ID": "SLAM!",
+    "Name": "SLAM!",
+    "Album": "",
+    "StreamURL": "https://stream.slam.nl/slam_mp3",
+    "ArtURL": "",
+    "Category": "SLAM!"
+  },
+  {
+    "ID": "SLAM!40",
+    "Name": "SLAM! 40",
+    "Album": "",
+    "StreamURL": "https://stream.slam.nl/web15_mp3",
+    "ArtURL": "",
+    "Category": "SLAM!"
+  },
+  {
+    "ID": "SLAM!HousuhInDePauzuh",
+    "Name": "SLAM! Housuh in de Pauzuh",
+    "Album": "",
+    "StreamURL": "https://stream.slam.nl/web11_mp3",
+    "ArtURL": "",
+    "Category": "SLAM!"
+  },
+  {
+    "ID": "SLAM!Juize",
+    "Name": "SLAM! Juize",
+    "Album": "",
+    "StreamURL": "https://stream.slam.nl/web13_mp3",
+    "ArtURL": "",
+    "Category": "SLAM!"
+  },
+  {
+    "ID": "SLAM!Mixmarathon",
+    "Name": "SLAM! Mixmarathon",
+    "Album": "",
+    "StreamURL": "https://stream.slam.nl/web14_mp3",
+    "ArtURL": "",
+    "Category": "SLAM!"
+  },
+  {
+    "ID": "SLAM!NonStop",
+    "Name": "SLAM! Non-Stop",
+    "Album": "",
+    "StreamURL": "https://stream.slam.nl/web12_mp3",
+    "ArtURL": "",
+    "Category": "SLAM!"
+  },
+  {
+    "ID": "SkyRadio",
+    "Name": "Sky Radio",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+    "ArtURL": "",
+    "Category": "Sky Radio"
+  },
+  {
+    "ID": "SkyRadioChristmas",
+    "Name": "Sky Radio Christmas",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_XMAS.mp3",
+    "ArtURL": "",
+    "Category": "Sky Radio"
+  },
+  {
+    "ID": "SkyRadioLovesongs",
+    "Name": "Sky Radio Lovesongs",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_LS.mp3",
+    "ArtURL": "",
+    "Category": "Sky Radio"
+  },
+  {
+    "ID": "SkyRadioNonStopAtWork",
+    "Name": "Sky Radio Non-stop@work",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_NS.mp3",
+    "ArtURL": "",
+    "Category": "Sky Radio"
+  },
+  {
+    "ID": "Sublime",
+    "Name": "Sublime",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3",
+    "ArtURL": "",
+    "Category": "Sublime"
+  },
+  {
+    "ID": "SublimeClassics",
+    "Name": "Sublime Classics",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME_CLASSICS.mp3",
+    "ArtURL": "",
+    "Category": "Sublime"
+  },
+  {
+    "ID": "SublimeFunkAndDisco",
+    "Name": "Sublime Funk & Disco",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME_FUNKDISCO.mp3",
+    "ArtURL": "",
+    "Category": "Sublime"
+  },
+  {
+    "ID": "Sunlite",
+    "Name": "Sunlite",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNLITE.mp3",
+    "ArtURL": "",
+    "Category": "Sunlite"
+  },
+  {
+    "ID": "VeronicaRadio",
+    "Name": "Veronica Radio",
+    "Album": "Join the Club",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "Category": "Veronica"
+  },
+  {
+    "ID": "Veronica80sHits",
+    "Name": "Veronica 80's Hits",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA80S.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "Category": "Veronica"
+  },
+  {
+    "ID": "Veronica90sHits",
+    "Name": "Veronica 90's Hits",
+    "Album": "",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA90S.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "Category": "Veronica"
+  },
+  {
+    "ID": "VeronicaRockRadio",
+    "Name": "Veronica Rock Radio",
+    "Album": "Join the Club",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAROCK.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "Category": "Veronica"
+  },
+  {
+    "ID": "VeronicaTop1000",
+    "Name": "Veronica Top 1000 Allertijden",
+    "Album": "Join the Club",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAT1000.mp3",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "Category": "Veronica"
+  }
+]
