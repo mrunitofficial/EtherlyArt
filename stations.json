@@ -371,7 +371,7 @@
     "ID": "Qmusic",
     "Name": "Qmusic",
     "Album": "",
-    "StreamURL": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "StreamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3",
     "ArtURL": "",
     "Category": "Qmusic"
   },
@@ -617,3 +617,4 @@
   }
 
 ]
+
