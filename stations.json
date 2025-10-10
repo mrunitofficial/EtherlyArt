@@ -48,18 +48,10 @@
     "Category": "538"
   },
   {
-    "ID": "538_90sHits",
-    "Name": "538 90's Hits",
+    "ID": "53890s",
+    "Name": "538 90's",
     "Album": "",
     "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
-    "ArtURL": "",
-    "Category": "538"
-  },
-  {
-    "ID": "538Classics",
-    "Name": "538 Classics",
-    "Album": "",
-    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
     "ArtURL": "",
     "Category": "538"
   },
@@ -72,10 +64,10 @@
     "Category": "538"
   },
   {
-    "ID": "538GuiltyPleasures",
-    "Name": "538 Guilty Pleasures",
+    "ID": "538GreatestHits",
+    "Name": "538 Greatest hits",
     "Album": "",
-    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
     "ArtURL": "",
     "Category": "538"
   },
@@ -108,14 +100,6 @@
     "Name": "538 Party",
     "Album": "",
     "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3",
-    "ArtURL": "",
-    "Category": "538"
-  },
-  {
-    "ID": "538Top1000",
-    "Name": "538 Top 1000",
-    "Album": "",
-    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3",
     "ArtURL": "",
     "Category": "538"
   },
@@ -161,7 +145,7 @@
   },
   {
     "ID": "FunXRadio",
-    "Name": "FunX Radio",
+    "Name": "FunX",
     "Album": "",
     "StreamURL": "https://icecast.omroep.nl/funx-bb-mp3",
     "ArtURL": "",
@@ -216,28 +200,68 @@
     "Category": "FunX"
   },
   {
-    "ID": "Joe",
-    "Name": "Joe",
+    "ID": "JoeBelgie",
+    "Name": "Joe België",
     "Album": "",
-    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+    "StreamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
     "ArtURL": "",
-    "Category": "Joe"
+    "Category": "Joe België"
   },
   {
-    "ID": "Joe70s80s",
-    "Name": "Joe 70s & 80s",
+    "ID": "JoeBelgie80s90s",
+    "Name": "Joe België 80's & 90's",
     "Album": "",
-    "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_7080.mp3",
+    "StreamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
     "ArtURL": "",
-    "Category": "Joe"
+    "Category": "Joe België"
   },
   {
-    "ID": "JoeEasy",
-    "Name": "Joe Easy",
+    "ID": "JoeBelgieEasy",
+    "Name": "Joe België Easy",
     "Album": "",
     "StreamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_EASY.mp3",
     "ArtURL": "",
-    "Category": "Joe"
+    "Category": "Joe België"
+  },
+  {
+    "ID": "JoeBelgieGold",
+    "Name": "Joe België Gold",
+    "Album": "",
+    "StreamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-gold.pm3",
+    "ArtURL": "",
+    "Category": "Joe België"
+  },
+  {
+    "ID": "JoeBelgieLageLanden",
+    "Name": "Joe België Lage Landen",
+    "Album": "",
+    "StreamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
+    "ArtURL": "",
+    "Category": "Joe België"
+  },
+  {
+    "ID": "JoeBelgieTop2000",
+    "Name": "Joe België Top 2000",
+    "Album": "",
+    "StreamURL": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.pm3",
+    "ArtURL": "",
+    "Category": "Joe België"
+  },
+  {
+    "ID": "JoeNederland",
+    "Name": "Joe Nederland",
+    "Album": "",
+    "StreamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+    "ArtURL": "",
+    "Category": "Joe Nederland"
+  },
+  {
+    "ID": "JoeNederlandNonStop",
+    "Name": "Joe Nederland Non-Stop",
+    "Album": "",
+    "StreamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop",
+    "ArtURL": "",
+    "Category": "Joe Nederland"
   },
   {
     "ID": "JumboRadio",
@@ -617,4 +641,5 @@
   }
 
 ]
+
 
