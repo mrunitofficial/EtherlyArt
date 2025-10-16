@@ -4,8 +4,10 @@
     "Name": "100% NL Radio",
     "Album": "Maakt je dag",
     "StreamURL": "https://stream.100p.nl/100pctnl.mp3",
+    "StreamURL2": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pRadio.png",
-    "Category": "100% NL"
+    "Category": "100% NL",
+    "Tags": ["Nederlands", "Pop", "Nederpop", "Top40"]
   },
   {
     "ID": "100pFeest",
@@ -396,8 +398,10 @@
     "Name": "Qmusic",
     "Album": "",
     "StreamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3",
+    "StreamURL2": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
     "ArtURL": "",
-    "Category": "Qmusic"
+    "Category": "Qmusic",
+    "Tags": ["Nederlands", "Pop", "Top40"] 
   },
   {
     "ID": "QmusicChristmas",
@@ -641,5 +645,6 @@
   }
 
 ]
+
 
 
