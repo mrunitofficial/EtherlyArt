@@ -700,6 +700,16 @@
     "Tags": ["Nederlands", "Pop", "Easy Listening"]
   },
   {
+    "ID": "StudioBrussel",
+    "Name": "Studio Brussel",
+    "Album": "Life is Music!",
+    "StreamURL": "http://icecast.vrtcdn.be/stubru-high.mp3",
+    "StreamURL2": "http://icecast.vrtcdn.be/stubru-high.aac",
+    "ArtURL": "",
+    "Category": "Studio Brussel",
+    "Tags": ["Vlaams", "Rock", "Dance", "Hip-Hop"]
+  },
+  {
     "ID": "Sublime",
     "Name": "Sublime",
     "Album": "",
@@ -800,3 +810,4 @@
     "Tags": ["Nederlands", "Rock", "Pop", "Top1000", "Oldies"]
   }
 ]
+
