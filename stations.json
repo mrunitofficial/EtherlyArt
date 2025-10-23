@@ -7,7 +7,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pRadio.png",
     "Category": "100% NL",
-    "Tags": ["Nederlands", "Pop", "Nederpop", "Top40"]
+    "Tags": ["Nederlands", "Pop", "Nederpop", "Top40"],
+    "rank": 10
   },
   {
     "ID": "100pFeest",
@@ -17,7 +18,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pFeest.png",
     "Category": "100% NL",
-    "Tags": ["Nederlands", "Nederpop", "Feest"]
+    "Tags": ["Nederlands", "Nederpop", "Feest"],
+    "rank": null
   },
   {
     "ID": "100pNonStop",
@@ -27,7 +29,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pNonStop.png",
     "Category": "100% NL",
-    "Tags": ["Nederlands", "Pop", "Nederpop"]
+    "Tags": ["Nederlands", "Pop", "Nederpop"],
+    "rank": null
   },
   {
     "ID": "100p70s&80s",
@@ -37,7 +40,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100p70s%2680s.png",
     "Category": "100% NL",
-    "Tags": ["Nederlands", "Pop", "Nederpop", "70's", "80's", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "Nederpop", "70's", "80's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "100p90s&00s",
@@ -47,7 +51,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/refs/heads/main/100P90s%2600s.png",
     "Category": "100% NL",
-    "Tags": ["Nederlands", "Pop", "Nederpop", "90's", "00's"]
+    "Tags": ["Nederlands", "Pop", "Nederpop", "90's", "00's"],
+    "rank": null
   },
   {
     "ID": "538Radio",
@@ -57,7 +62,8 @@
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.aac",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "Dance", "Top40"]
+    "Tags": ["Nederlands", "Pop", "Dance", "Top40"],
+    "rank": 3
   },
   {
     "ID": "538_90s",
@@ -67,7 +73,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "90's"]
+    "Tags": ["Nederlands", "Pop", "90's"],
+    "rank": null
   },
   {
     "ID": "538DanceDept",
@@ -77,7 +84,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "538",
-    "Tags": ["Nederlands", "Dance", "House"]
+    "Tags": ["Nederlands", "Dance", "House"],
+    "rank": null
   },
   {
     "ID": "538GreatestHits",
@@ -87,7 +95,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "Oldies"],
+    "rank": null
   },
   {
     "ID": "538Hitzone",
@@ -97,7 +106,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "Top40"]
+    "Tags": ["Nederlands", "Pop", "Top40"],
+    "rank": null
   },
   {
     "ID": "538Ibiza",
@@ -107,7 +117,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
     "Category": "538",
-    "Tags": ["Nederlands", "Dance", "House", "Zomerhits"]
+    "Tags": ["Nederlands", "Dance", "House", "Zomerhits"],
+    "rank": null
   },
   {
     "ID": "538NonStop",
@@ -117,7 +128,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "Dance"]
+    "Tags": ["Nederlands", "Pop", "Dance"],
+    "rank": null
   },
   {
     "ID": "538Party",
@@ -127,7 +139,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "Dance", "Feest"]
+    "Tags": ["Nederlands", "Pop", "Dance", "Feest"],
+    "rank": null
   },
   {
     "ID": "538Top50",
@@ -137,7 +150,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "Top40"]
+    "Tags": ["Nederlands", "Pop", "Top40"],
+    "rank": null
   },
   {
     "ID": "538Zomer",
@@ -147,7 +161,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "538",
-    "Tags": ["Nederlands", "Pop", "Zomerhits"]
+    "Tags": ["Nederlands", "Pop", "Zomerhits"],
+    "rank": null
   },
   {
     "ID": "ArrowClassicRock",
@@ -157,7 +172,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Arrow",
-    "Tags": ["Nederlands", "Rock", "Oldies"]
+    "Tags": ["Nederlands", "Rock", "Oldies"],
+    "rank": null
   },
   {
     "ID": "BNR",
@@ -167,7 +183,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "BNR",
-    "Tags": ["Nederlands", "Nieuws", "Talk"]
+    "Tags": ["Nederlands", "Nieuws", "Talk"],
+    "rank": null
   },
   {
     "ID": "classicnl",
@@ -177,7 +194,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "classicnl",
-    "Tags": ["Nederlands", "Klassiek"]
+    "Tags": ["Nederlands", "Klassiek"],
+    "rank": null
   },
   {
     "ID": "FunXRadio",
@@ -187,7 +205,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "FunX",
-    "Tags": ["Nederlands", "HipHop", "R&B", "Latin"]
+    "Tags": ["Nederlands", "HipHop", "R&B", "Latin"],
+    "rank": null
   },
   {
     "ID": "FunXArab",
@@ -197,7 +216,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "FunX",
-    "Tags": ["Nederlands", "Arabisch", "HipHop"]
+    "Tags": ["Nederlands", "Arabisch", "HipHop"],
+    "rank": null
   },
   {
     "ID": "FunXFissa",
@@ -207,7 +227,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "FunX",
-    "Tags": ["Nederlands", "Dance", "Feest"]
+    "Tags": ["Nederlands", "Dance", "Feest"],
+    "rank": null
   },
   {
     "ID": "FunXHipHop",
@@ -217,7 +238,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "FunX",
-    "Tags": ["Nederlands", "HipHop"]
+    "Tags": ["Nederlands", "HipHop"],
+    "rank": null
   },
   {
     "ID": "FunXLatin",
@@ -227,7 +249,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "FunX",
-    "Tags": ["Nederlands", "Latin"]
+    "Tags": ["Nederlands", "Latin"],
+    "rank": null
   },
   {
     "ID": "FunXReggae",
@@ -237,7 +260,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "FunX",
-    "Tags": ["Nederlands", "Reggae"]
+    "Tags": ["Nederlands", "Reggae"],
+    "rank": null
   },
   {
     "ID": "FunXSlowJamz",
@@ -247,7 +271,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "FunX",
-    "Tags": ["Nederlands", "R&B", "Slow Jamz"]
+    "Tags": ["Nederlands", "R&B", "Slow Jamz"],
+    "rank": null
   },
   {
     "ID": "JoeBelgie",
@@ -257,7 +282,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe België",
-    "Tags": ["Vlaams", "Pop", "Oldies"]
+    "Tags": ["Vlaams", "Pop", "Oldies"],
+    "rank": null
   },
   {
     "ID": "JoeBelgie80s90s",
@@ -267,7 +293,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe België",
-    "Tags": ["Vlaams", "Pop", "80's", "90's", "Oldies"]
+    "Tags": ["Vlaams", "Pop", "80's", "90's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "JoeBelgieEasy",
@@ -277,17 +304,19 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe België",
-    "Tags": ["Vlaams", "Pop", "Easy Listening"]
+    "Tags": ["Vlaams", "Pop", "Easy Listening"],
+    "rank": null
   },
   {
     "ID": "JoeBelgieGold",
     "Name": "Joe België Gold",
     "Album": "",
-    "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-gold.pm3",
+    "streamMP3": "httpsAi.com/api/livestream-redirect/JOE_GOLD.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe België",
-    "Tags": ["Vlaams", "Pop", "Oldies"]
+    "Tags": ["Vlaams", "Pop", "Oldies"],
+    "rank": null
   },
   {
     "ID": "JoeBelgieLageLanden",
@@ -297,17 +326,19 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe België",
-    "Tags": ["Vlaams", "Nederpop"]
+    "Tags": ["Vlaams", "Nederpop"],
+    "rank": null
   },
   {
     "ID": "JoeBelgieTop2000",
     "Name": "Joe België Top 2000",
     "Album": "",
-    "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.pm3",
+    "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe België",
-    "Tags": ["Vlaams", "Pop", "Top2000", "Oldies"]
+    "Tags": ["Vlaams", "Pop", "Top2000", "Oldies"],
+    "rank": null
   },
   {
     "ID": "JoeNederland",
@@ -317,17 +348,19 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe Nederland",
-    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "JoeNederlandNonStop",
     "Name": "Joe Nederland Non-Stop",
     "Album": "",
-    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop",
+    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Joe Nederland",
-    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "JumboRadio",
@@ -337,7 +370,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Jumbo Radio",
-    "Tags": ["Nederlands", "Pop"]
+    "Tags": ["Nederlands", "Pop"],
+    "rank": null
   },
   {
     "ID": "KINK",
@@ -347,7 +381,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "KINK",
-    "Tags": ["Nederlands", "Rock", "Alternative"]
+    "Tags": ["Nederlands", "Rock", "Alternative"],
+    "rank": null
   },
   {
     "ID": "KINK80s",
@@ -357,7 +392,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "KINK",
-    "Tags": ["Nederlands", "Rock", "80's", "Alternative"]
+    "Tags": ["Nederlands", "Rock", "80's", "Alternative"],
+    "rank": null
   },
   {
     "ID": "KINK90s",
@@ -367,7 +403,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "KINK",
-    "Tags": ["Nederlands", "Rock", "90's", "Alternative"]
+    "Tags": ["Nederlands", "Rock", "90's", "Alternative"],
+    "rank": null
   },
   {
     "ID": "KINKDistortion",
@@ -377,7 +414,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "KINK",
-    "Tags": ["Nederlands", "Rock", "Metal", "Alternative"]
+    "Tags": ["Nederlands", "Rock", "Metal", "Alternative"],
+    "rank": null
   },
   {
     "ID": "NPORadio1",
@@ -387,7 +425,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Nieuws", "Talk"]
+    "Tags": ["Nederlands", "Nieuws", "Talk"],
+    "rank": 6
   },
   {
     "ID": "NPORadio2",
@@ -397,7 +436,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Pop", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "Oldies"],
+    "rank": 1
   },
   {
     "ID": "NPORadio2Top2000",
@@ -407,7 +447,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Pop", "Top2000", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "Top2000", "Oldies"],
+    "rank": null
   },
   {
     "ID": "NPO3FM",
@@ -417,7 +458,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Pop", "Alternative"]
+    "Tags": ["Nederlands", "Pop", "Alternative"],
+    "rank": 7
   },
   {
     "ID": "NPO3FMAlternative",
@@ -427,7 +469,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Alternative", "Rock"]
+    "Tags": ["Nederlands", "Alternative", "Rock"],
+    "rank": null
   },
   {
     "ID": "NPORadio4",
@@ -437,7 +480,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Klassiek"]
+    "Tags": ["Nederlands", "Klassiek"],
+    "rank": null
   },
   {
     "ID": "NPORadio5",
@@ -447,7 +491,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Oldies", "Evergreens"]
+    "Tags": ["Nederlands", "Oldies", "Evergreens"],
+    "rank": 8
   },
   {
     "ID": "NPOSoulAndJazz",
@@ -457,7 +502,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Soul", "Jazz"]
+    "Tags": ["Nederlands", "Soul", "Jazz"],
+    "rank": null
   },
   {
     "ID": "NPOSterrenNL",
@@ -467,7 +513,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
-    "Tags": ["Nederlands", "Nederpop", "Volksmuziek"]
+    "Tags": ["Nederlands", "Nederpop", "Volksmuziek"],
+    "rank": null
   },
   {
     "ID": "Nostalgie",
@@ -477,7 +524,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Nostalgie",
-    "Tags": ["Vlaams", "Pop", "Oldies"]
+    "Tags": ["Vlaams", "Pop", "Oldies"],
+    "rank": null
   },
   {
     "ID": "OneWorldRadio",
@@ -487,7 +535,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/OneWorldRadio.png",
     "Category": "One World Radio",
-    "Tags": ["Dance", "House", "Tomorrowland"]
+    "Tags": ["Dance", "House", "Tomorrowland"],
+    "rank": null
   },
   {
     "ID": "Qmusic",
@@ -497,47 +546,52 @@
     "streamAAC": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
     "ArtURL": "",
     "Category": "Qmusic",
-    "Tags": ["Nederlands", "Pop", "Top40"]
+    "Tags": ["Nederlands", "Pop", "Top40"],
+    "rank": 2
   },
   {
     "ID": "QmusicChristmas",
     "Name": "Qmusic Christmas",
     "Album": "",
-    "streamMP3": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_xmas_96.mp3",
+    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_xmas_96.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Qmusic",
-    "Tags": ["Nederlands", "Kerst"]
+    "Tags": ["Nederlands", "Kerst"],
+    "rank": null
   },
   {
     "ID": "QmusicFouteUur",
     "Name": "Qmusic Foute Uur",
     "Album": "",
-    "streamMP3": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3",
+    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Qmusic",
-    "Tags": ["Nederlands", "Pop", "Feest", "90's", "00's"]
+    "Tags": ["Nederlands", "Pop", "Feest", "90's", "00's"],
+    "rank": null
   },
   {
     "ID": "QmusicNonstop",
     "Name": "Qmusic Non-stop",
     "Album": "",
-    "streamMP3": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3",
+    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Qmusic",
-    "Tags": ["Nederlands", "Pop", "Top40"]
+    "Tags": ["Nederlands", "Pop", "Top40"],
+    "rank": null
   },
   {
     "ID": "QmusicTop40",
     "Name": "Qmusic Top 40",
     "Album": "",
-    "streamMP3": "http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_96.mp3",
+    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_96.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Qmusic",
-    "Tags": ["Nederlands", "Pop", "Top40"]
+    "Tags": ["Nederlands", "Pop", "Top40"],
+    "rank": null
   },
   {
     "ID": "Radio10",
@@ -547,7 +601,8 @@
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.aac",
     "ArtURL": "",
     "Category": "Radio 10",
-    "Tags": ["Nederlands", "Pop", "80's", "90's", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "80's", "90's", "Oldies"],
+    "rank": 4
   },
   {
     "ID": "Radio10_60s70s",
@@ -557,7 +612,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Radio 10",
-    "Tags": ["Nederlands", "Pop", "60's", "70's", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "60's", "70's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "Radio10_80s",
@@ -567,7 +623,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Radio 10",
-    "Tags": ["Nederlands", "Pop", "80's", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "80's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "Radio10_90sHits",
@@ -577,7 +634,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Radio 10",
-    "Tags": ["Nederlands", "Pop", "90's", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "90's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "Radio10DiscoClassics",
@@ -587,7 +645,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Radio 10",
-    "Tags": ["Nederlands", "Disco", "70's", "80's", "Oldies"]
+    "Tags": ["Nederlands", "Disco", "70's", "80's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "Radio10Top4000",
@@ -597,7 +656,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Radio 10",
-    "Tags": ["Nederlands", "Pop", "Top4000", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "Top4000", "Oldies"],
+    "rank": null
   },
   {
     "ID": "SLAM!",
@@ -607,7 +667,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House"]
+    "Tags": ["Nederlands", "Dance", "House"],
+    "rank": null
   },
   {
     "ID": "SLAM!40",
@@ -617,7 +678,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House", "Top40"]
+    "Tags": ["Nederlands", "Dance", "House", "Top40"],
+    "rank": null
   },
   {
     "ID": "SLAM!HousuhInDePauzuh",
@@ -627,7 +689,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "SLAM!",
-    "Tags": ["Nederlands", "Hardstyle", "Dance", "House"]
+    "Tags": ["Nederlands", "Hardstyle", "Dance", "House"],
+    "rank": null
   },
   {
     "ID": "SLAM!Juize",
@@ -637,7 +700,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "SLAM!",
-    "Tags": ["Nederlands", "HipHop", "R&B"]
+    "Tags": ["Nederlands", "HipHop", "R&B"],
+    "rank": null
   },
   {
     "ID": "SLAM!Mixmarathon",
@@ -647,7 +711,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House", "DJ Mix"]
+    "Tags": ["Nederlands", "Dance", "House", "DJ Mix"],
+    "rank": null
   },
   {
     "ID": "SLAM!NonStop",
@@ -657,7 +722,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House"]
+    "Tags": ["Nederlands", "Dance", "House"],
+    "rank": null
   },
   {
     "ID": "SkyRadio",
@@ -667,7 +733,8 @@
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.aac",
     "ArtURL": "",
     "Category": "Sky Radio",
-    "Tags": ["Nederlands", "Pop", "Easy Listening"]
+    "Tags": ["Nederlands", "Pop", "Easy Listening"],
+    "rank": 5
   },
   {
     "ID": "SkyRadioChristmas",
@@ -677,37 +744,41 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Sky Radio",
-    "Tags": ["Nederlands", "Kerst"]
+    "Tags": ["Nederlands", "Kerst"],
+    "rank": null
   },
   {
     "ID": "SkyRadioLovesongs",
     "Name": "Sky Radio Lovesongs",
     "Album": "",
-    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_LS.mp3",
+    "streamMP3": "httpsS://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_LS.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Sky Radio",
-    "Tags": ["Nederlands", "Pop", "Lovesongs"]
+    "Tags": ["Nederlands", "Pop", "Lovesongs"],
+    "rank": null
   },
   {
     "ID": "SkyRadioNonStopAtWork",
     "Name": "Sky Radio Non-stop@work",
     "Album": "",
-    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_NS.mp3",
+    "streamMP3": "httpsS://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_NS.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Sky Radio",
-    "Tags": ["Nederlands", "Pop", "Easy Listening"]
+    "Tags": ["Nederlands", "Pop", "Easy Listening"],
+    "rank": null
   },
   {
     "ID": "StudioBrussel",
     "Name": "Studio Brussel",
     "Album": "Life is Music!",
-    "streamMP3": "http://icecast.vrtcdn.be/stubru-high.mp3",
-    "streamAAC": "http://icecast.vrtcdn.be/stubru-high.aac",
+    "streamMP3": "https://icecast.vrtcdn.be/stubru-high.mp3",
+    "streamAAC": "https://icecast.vrtcdn.be/stubru-high.aac",
     "ArtURL": "",
     "Category": "Studio Brussel",
-    "Tags": ["Vlaams", "Rock", "Dance", "Hip-Hop"]
+    "Tags": ["Vlaams", "Rock", "Dance", "Hip-Hop"],
+    "rank": null
   },
   {
     "ID": "Sublime",
@@ -717,7 +788,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Sublime",
-    "Tags": ["Nederlands", "Jazz", "Soul", "Funk"]
+    "Tags": ["Nederlands", "Jazz", "Soul", "Funk"],
+    "rank": null
   },
   {
     "ID": "SublimeClassics",
@@ -727,7 +799,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Sublime",
-    "Tags": ["Nederlands", "Jazz", "Soul", "Funk", "Oldies"]
+    "Tags": ["Nederlands", "Jazz", "Soul", "Funk", "Oldies"],
+    "rank": null
   },
   {
     "ID": "SublimeFunkAndDisco",
@@ -737,7 +810,8 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Sublime",
-    "Tags": ["Nederlands", "Funk", "Disco", "Oldies"]
+    "Tags": ["Nederlands", "Funk", "Disco", "Oldies"],
+    "rank": null
   },
   {
     "ID": "Sunlite",
@@ -747,17 +821,19 @@
     "streamAAC": "",
     "ArtURL": "",
     "Category": "Sunlite",
-    "Tags": ["Nederlands", "Pop", "Easy Listening", "Oldies"]
+    "Tags": ["Nederlands", "Pop", "Easy Listening", "Oldies"],
+    "rank": null
   },
   {
     "ID": "QDanceRadio",
     "Name": "Q Dance",
     "Album": "Home of the harder styles",
-    "streamMP3": "http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "QDance",
-    "Tags": ["Nederlands", "Hardstyle", "Hardcore"]
+    "Tags": ["Nederlands", "Hardstyle", "Hardcore"],
+    "rank": null
   },
   {
     "ID": "VeronicaRadio",
@@ -767,7 +843,8 @@
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.aac",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
     "Category": "Veronica",
-    "Tags": ["Nederlands", "Rock", "Pop", "Oldies"]
+    "Tags": ["Nederlands", "Rock", "Pop", "Oldies"],
+    "rank": 9
   },
   {
     "ID": "Veronica80sHits",
@@ -777,7 +854,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
     "Category": "Veronica",
-    "Tags": ["Nederlands", "Rock", "Pop", "80's", "Oldies"]
+    "Tags": ["Nederlands", "Rock", "Pop", "80's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "Veronica90sHits",
@@ -787,7 +865,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
     "Category": "Veronica",
-    "Tags": ["Nederlands", "Rock", "Pop", "90's", "Oldies"]
+    "Tags": ["Nederlands", "Rock", "Pop", "90's", "Oldies"],
+    "rank": null
   },
   {
     "ID": "VeronicaRockRadio",
@@ -797,7 +876,8 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
     "Category": "Veronica",
-    "Tags": ["Nederlands", "Rock"]
+    "Tags": ["Nederlands", "Rock"],
+    "rank": null
   },
   {
     "ID": "VeronicaTop1000",
@@ -807,6 +887,7 @@
     "streamAAC": "",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
     "Category": "Veronica",
-    "Tags": ["Nederlands", "Rock", "Pop", "Top1000", "Oldies"]
+    "Tags": ["Nederlands", "Rock", "Pop", "Top1000", "Oldies"],
+    "rank": null
   }
 ]
