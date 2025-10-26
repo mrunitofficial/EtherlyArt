@@ -59,7 +59,7 @@
     "Name": "Radio 538",
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
-    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.aac",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC.aac",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Dance", "Top40"],
@@ -891,3 +891,4 @@
     "rank": null
   }
 ]
+
