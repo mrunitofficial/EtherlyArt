@@ -509,7 +509,7 @@
     "ID": "NPOSterrenNL",
     "Name": "NPO Sterren NL",
     "Album": "",
-    "streamMP3": "https://icecast.omroep.nl/npo-sterrennl-mp3",
+    "streamMP3": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
     "streamAAC": "",
     "ArtURL": "",
     "Category": "NPO",
@@ -891,4 +891,5 @@
     "rank": null
   }
 ]
+
 
